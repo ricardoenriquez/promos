@@ -2,4 +2,4 @@
 
  header('Location: ../../Zan_Anghel');
 
-subiendo Error
+subiendo Error 2
